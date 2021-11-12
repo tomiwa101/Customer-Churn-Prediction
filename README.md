@@ -5,13 +5,14 @@ My main goal in this project is to build a model to predict customer's behaviour
 * Extract insight that could help improve the business in the future
 
 # Procedure
-1.Descriptive statistics of the dataset
-2.Exploratory Data Analysis (uni & multivariate analysis)
-3.Data processing
+1. Descriptive statistics of the dataset
+2. Exploratory Data Analysis (uni & multivariate analysis)
+3. Data processing
+
 Description on which predictive method to use (e.g linear regression) at least 2 need to be included. Build and evaluate the models, compare
 their performance, interpret the models using Pandas, Numpy, Scikit-learn
-4.Construction of predictive features
-5.Baseline method
-6.Hyper-parameter tuning
-7.Model evaluation
+4. Construction of predictive features
+5. Baseline method
+6. Hyper-parameter tuning
+7. Model evaluation
 
